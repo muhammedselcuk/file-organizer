@@ -60,11 +60,19 @@ Using the GUI:
 Select Folder:
 
 Click the "Select Folder" button to choose a directory.
+
 Or drag and drop a folder onto the application window.
-Organize By: Select the criterion for organizing files.
+
+Organize By: Select the criterion for organizing files. 
+
 If you select a time-based criterion (Creation Time, Modified Time, Last Accessed Time), you can choose the time period (Yearly, Monthly, Daily).
+
 If you select File Extension or File Size, additional options will appear to fine-tune the operation.
+
 Exclude Subfolders: Check this box if you want to exclude files in subdirectories.
+
 Organize: Click to start organizing files based on your selections.
+
 Flatten Directory: Moves all files to the root of the selected directory, optionally excluding subfolders.
+
 Total Files: Displays the total number of files that will be affected by the operation.
