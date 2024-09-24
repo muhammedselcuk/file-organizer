@@ -32,28 +32,28 @@ A user-friendly GUI application to organize your files efficiently based on vari
 
 1. **Clone the repository:**
 
-   ```
- git clone https://github.com/muhammedselcuk/file-organizer.git
-    ```
+```
+git clone https://github.com/muhammedselcuk/file-organizer.git
+```
 
-   
+
 Navigate to the project directory:
-       ```
-      cd file-organizer
-        ```
+```
+cd file-organizer
+```
 
     
 
 Install the required packages:
-       ```
-    pip install -r requirements.txt
-        ```
+```
+pip install -r requirements.txt
+```
 
 Usage
    Run the application:
-       ```
-      python main.py
-        ```
+```
+python main.py
+```
 
 Using the GUI:
 
