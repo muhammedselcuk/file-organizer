@@ -32,20 +32,33 @@ A user-friendly GUI application to organize your files efficiently based on vari
 
 1. **Clone the repository:**
 
+   ```
+ git clone https://github.com/muhammedselcuk/file-organizer.git
+    ```
+
    
-   git clone https://github.com/muhammedselcuk/file-organizer.git
 Navigate to the project directory:
-    cd file-organizer
+       ```
+      cd file-organizer
+        ```
+
+    
 
 Install the required packages:
+       ```
     pip install -r requirements.txt
-    
+        ```
+
 Usage
    Run the application:
+       ```
       python main.py
+        ```
 
 Using the GUI:
+
 Select Folder:
+
 Click the "Select Folder" button to choose a directory.
 Or drag and drop a folder onto the application window.
 Organize By: Select the criterion for organizing files.
