@@ -2,7 +2,6 @@ import os
 import shutil
 from datetime import datetime
 
-
 def organize_files(folder_path, criteria='creation_time', options=None, include_subfolders=True, time_period=None):
     if not os.path.exists(folder_path):
         raise ValueError(f"The folder {folder_path} does not exist.")
